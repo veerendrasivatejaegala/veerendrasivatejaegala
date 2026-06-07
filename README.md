@@ -14,47 +14,29 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Veerendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=veerendrasivatejaegala\&show_icons=true\&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=veerendrasivatejaegala\&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=veerendrasivatejaegala&show_icons=true&theme=tokyonight)
-
----
-
-## 📈 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=veerendrasivatejaegala\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🌱 Currently Learning
 
 * Data Structures & Algorithms
 * Spring Security
 * React Native
 * System Design
-* Microservices Architecture
+* Microservices
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💰 Expenses Tracker
-
-A web application to manage and track expenses efficiently.
-
 ### 🎓 Student Management System
 
-Full-stack CRUD application built using Spring Boot and MySQL.
+A full-stack CRUD application built using Spring Boot, MySQL, HTML, CSS, and JavaScript.
+
+### 💰 Expense Tracker
+
+A web application for managing and tracking personal expenses efficiently.
 
 ### 📚 EduFlow Mini Project
 
-Course management application developed with Java.
+A course management system developed using Java.
 
 ### 🔐 Spring Security Implementation
 
@@ -67,7 +49,24 @@ Authentication and authorization using Spring Security.
 * Solve 500+ DSA Problems
 * Master Spring Boot & Microservices
 * Build Production-Level Full Stack Projects
-* Secure a Software Developer Internship
+* Secure a Software Development Internship
+
+---
+
+## 📊 GitHub Profile Summary
+
+![Profile Views](https://komarev.com/ghpvc/?username=veerendrasivatejaegala\&label=Profile%20Views\&color=0e75b6\&style=flat)
+
+---
+
+## 🛠 Tools & Technologies
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ---
 
@@ -81,6 +80,8 @@ Authentication and authorization using Spring Security.
 
 ---
 
-### ⚡ Fun Fact
+## ⚡ Fun Fact
 
-I enjoy turning ideas into applications using Java and Spring Boot while continuously improving my problem-solving skills.
+I enjoy transforming ideas into real-world applications using Java and Spring Boot while continuously improving my problem-solving skills.
+
+⭐ If you like my projects, consider giving them a star!

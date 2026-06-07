@@ -13,6 +13,10 @@
 - React Native
 - System Design
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=veerendrasivatejaegala&show_icons=true&theme=dark)
+
 📫 Reach Me
 - Email: verendrasivateja@gmail.com
 - LinkedIn: https://www.linkedin.com/in/veerendra-siva-teja-egala/

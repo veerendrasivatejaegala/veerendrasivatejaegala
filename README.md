@@ -6,14 +6,7 @@
 
 ## 💻 Tech Stack
 
-![Java](https://skillicons.dev/icons?i=java)
-![Spring](https://skillicons.dev/icons?i=spring)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,git,github,html,css,js,react)](https://skillicons.dev)
 
 📚 Currently Learning
 - Data Structures & Algorithms
